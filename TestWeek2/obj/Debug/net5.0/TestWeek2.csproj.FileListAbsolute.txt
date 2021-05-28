@@ -1,0 +1,16 @@
+C:\Users\laura.pennetta\Desktop\TestWeek2\TestWeek2\bin\Debug\net5.0\TestWeek2.exe
+C:\Users\laura.pennetta\Desktop\TestWeek2\TestWeek2\bin\Debug\net5.0\TestWeek2.deps.json
+C:\Users\laura.pennetta\Desktop\TestWeek2\TestWeek2\bin\Debug\net5.0\TestWeek2.runtimeconfig.json
+C:\Users\laura.pennetta\Desktop\TestWeek2\TestWeek2\bin\Debug\net5.0\TestWeek2.runtimeconfig.dev.json
+C:\Users\laura.pennetta\Desktop\TestWeek2\TestWeek2\bin\Debug\net5.0\TestWeek2.dll
+C:\Users\laura.pennetta\Desktop\TestWeek2\TestWeek2\bin\Debug\net5.0\ref\TestWeek2.dll
+C:\Users\laura.pennetta\Desktop\TestWeek2\TestWeek2\bin\Debug\net5.0\TestWeek2.pdb
+C:\Users\laura.pennetta\Desktop\TestWeek2\TestWeek2\obj\Debug\net5.0\TestWeek2.csprojAssemblyReference.cache
+C:\Users\laura.pennetta\Desktop\TestWeek2\TestWeek2\obj\Debug\net5.0\TestWeek2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura.pennetta\Desktop\TestWeek2\TestWeek2\obj\Debug\net5.0\TestWeek2.AssemblyInfoInputs.cache
+C:\Users\laura.pennetta\Desktop\TestWeek2\TestWeek2\obj\Debug\net5.0\TestWeek2.AssemblyInfo.cs
+C:\Users\laura.pennetta\Desktop\TestWeek2\TestWeek2\obj\Debug\net5.0\TestWeek2.csproj.CoreCompileInputs.cache
+C:\Users\laura.pennetta\Desktop\TestWeek2\TestWeek2\obj\Debug\net5.0\TestWeek2.dll
+C:\Users\laura.pennetta\Desktop\TestWeek2\TestWeek2\obj\Debug\net5.0\ref\TestWeek2.dll
+C:\Users\laura.pennetta\Desktop\TestWeek2\TestWeek2\obj\Debug\net5.0\TestWeek2.pdb
+C:\Users\laura.pennetta\Desktop\TestWeek2\TestWeek2\obj\Debug\net5.0\TestWeek2.genruntimeconfig.cache
